@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[20],{232:function(t,e,n){"use strict";n.r(e);var s=n(28),l=Object(s.a)({},(function(){var t=this.$createElement,e=this._self._c||t;return e("ContentSlotsDistributor",{attrs:{"slot-key":this.$parent.slotKey}},[e("p",[this._v("GET 请求的 url 长度是有限制的，不同的浏览器长度限制不一样，最长的大概是 10k 左右。")])])}),[],!1,null,null,null);e.default=l.exports}}]);
